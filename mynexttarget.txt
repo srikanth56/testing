@@ -1,2 +1,3 @@
 How to use git and github.
 And also learn about bitbucket.
+and also learn git commands.
